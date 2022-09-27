@@ -9,5 +9,7 @@ public class CreateTest {
 	{
 		System.out.println("---Created---");
 	}
-
+  public void delete() {
+	  System.out.println("------------- Delete------------");
+  }
 }
