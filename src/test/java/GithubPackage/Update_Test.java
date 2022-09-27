@@ -7,6 +7,7 @@ public class Update_Test {
 	public void update()
 	{
 		System.out.println("------------  update-------------");
+		
 	}
 
 }
